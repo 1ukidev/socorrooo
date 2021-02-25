@@ -1,8 +1,13 @@
-<img src="Docs/2021-02-25_17-36.png"/>
-<img src="Docs/2021-02-25_17-23.png"/>
-<img src="Docs/2021-02-25_08-48.png"/>
+### Tarefas: </br>
+<img src="Docs/2021-02-25_17-36.png"/> </br> </br> </br>
+### E-mails: </br>
+<img src="Docs/2021-02-25_17-23.png"/> </br> </br> </br>
+### Horários: </br>
+<img src="Docs/2021-02-25_08-48.png"/> </br> </br> </br>
 
-Tem alguma coisa errada? Envie para mim! (Nome: Leonardo Monteiro Moreira - 1º Ano - Informática)
+### Tem alguma coisa errada ou desatualizada? Avise para mim! (Nome: Leonardo Monteiro Moreira - 1º Ano - Informática)
+
+#### Ignore o que está escrito abaixo (:
 
 ### Jekyll Themes
 
