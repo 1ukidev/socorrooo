@@ -5,4 +5,7 @@
 ## Horários:
 <img src="Docs/2021-02-25_08-48.png"/>
 
-### Tem alguma coisa errada ou desatualizada? Avise para mim! (Nome: Leonardo Monteiro Moreira - 1º Ano - Informática)
+### Tem alguma coisa errada ou desatualizada? 
+### Avise para mim!
+### Nome: Leonardo Monteiro Moreira
+### Turma: 1º Ano - Informática
