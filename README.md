@@ -1,2 +1,2 @@
 # socorrooo
-Tarefas, horários e e-mails para os perdidos.
+Tarefas, e-mails e horários para os perdidos.
