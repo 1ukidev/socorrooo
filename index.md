@@ -1,12 +1,12 @@
-## Última atualização: 27/02 às 20:15
+## Última atualização: 01/03 às 16:05
 
 ## Tarefas:
-<img src="Docs/2021-02-27_20-04.png"/>
+<img src="Docs/2021-03-01_16-02.png"/>
 
-### ATENÇÃO: Eu recomendo que você verifique o WhatsApp antes de fazer alguma tarefa, não use apenas o que está escrito na lista!
+#### ATENÇÃO: Eu recomendo que você verifique o WhatsApp antes de fazer certas tarefas, não use apenas o que está escrito na lista!
 
 ## E-mails:
-<img src="Docs/2021-02-26_12-04_1.png"/>
+<img src="Docs/2021-03-01_15-57.png"/>
 
 ## Horários:
 <img src="Docs/Agenda.png"/>
