@@ -1,5 +1,6 @@
-## Para acelerar as atualizações, decidi integrar a tabela no próprio site
 ## Última atualização: 02/03 às 13:28
+## Para acelerar as atualizações, decidi integrar a tabela no próprio site.
+## Não está conseguindo ver a tabela inteira? Apenas arraste para o lado.
 
 # 📖 Tarefas:
 
