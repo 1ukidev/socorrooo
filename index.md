@@ -1,5 +1,5 @@
-## Última atualização: 02/03 às 10:00
-## Próxima atualização: 14:00
+## Para acelerar as atualizações, decidi integrar a tabela no próprio site
+## Última atualização: 02/03 às 13:28
 
 # 📖 Tarefas:
 
