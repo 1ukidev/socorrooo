@@ -6,6 +6,7 @@
 #### Não está conseguindo ver a tabela inteira? Apenas arraste para o lado.
 #### Dica: Se você estiver no celular usando o chrome, clique no botão com 3 pontos e marque a opção "Para computador", dessa forma você tera um espaço mais amplo.
 
+
 ---
 
 # 📖 Tarefas:
