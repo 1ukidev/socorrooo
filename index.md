@@ -1,4 +1,4 @@
-## Última atualização: 02/03 às 13:28
+## Última atualização: 02/03 às 13:35
 #### Para acelerar as atualizações, decidi integrar a tabela no próprio site.
 #### Não está conseguindo ver a tabela inteira? Apenas arraste para o lado.
 
@@ -22,6 +22,7 @@ Tarefa de filosofia | 5 de março | Tarefa | Fazer redação (Imagem no WhatsApp
 Tarefa de física | ? | Tarefa | Responder formulário
 Tarefa de informática | 8 de março | Tarefa | Fazer pesquisa (Mais informações no WhatsApp) (Enviar pelo **E-mail**)
 Trabalho de empreendedorismo | 9 de março | Trabalho | Fazer atividade do grupo de empreendedorismo (Em grupo ou individual) (Enviar pelo **E-mail**)
+Tarefa de avaliação | ? | Tarefa | Fazer tarefa avaliativa do Seduc
 
 #### ATENÇÃO: Eu recomendo que você verifique o WhatsApp antes de fazer certas tarefas, não use apenas o que está escrito na lista!
 
