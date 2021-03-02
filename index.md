@@ -2,7 +2,7 @@
 ## Próxima atualização: 14:00
 
 # 📖 Tarefas
----
+
 Nome | Limite para concluir | Tipo | Detalhes
 :--------- | :------: | -------: | -------:
 Tarefa de biologia | 4 de março | Tarefa | Responder atividade 1 do PDF do grupo de biologia (Enviar pelo **E-mail**) (Mais informações no grupo de biologia)
