@@ -1,11 +1,11 @@
-## Última atualização: 02/03 às 07:45
+## Última atualização: 02/03 às 08:25
 
 ## Tarefas:
 <img src="Docs/2021-03-02_07-42.png"/>
 
 #### ATENÇÃO: Eu recomendo que você verifique o WhatsApp antes de fazer certas tarefas, não use apenas o que está escrito na lista!
 
-## 📌 E-mail dos professores
+## E-mail dos professores:
 
 - Português, FPC - Rossana - proferossanaesp@gmail.com
 - Matemática - Fernando - professorfernandolima7@gmail.com
