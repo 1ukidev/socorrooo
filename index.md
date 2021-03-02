@@ -1,4 +1,4 @@
-## Última atualização: 02/03 às 10:00 </br>
+## Última atualização: 02/03 às 10:00
 ## Próxima atualização: 14:00
 
 # 📖 Tarefas:
