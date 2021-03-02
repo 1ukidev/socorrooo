@@ -46,8 +46,48 @@ Trabalho de empreendedorismo | 9 de março | Trabalho | Fazer atividade do grupo
 
 - E-mail de matemática da turma: ppmatematica1ano@gmail.com Senha: 15726488
 
-## 🔖 Horários:
-<img src="Docs/Agenda.png"/>
+## Agenda
+
+### Segunda
+
+---
+
+- [ ]  Informática - 13:00 até 13:50, 13:50 até 14:40, 15:00 até 15:50
+
+### Terça
+
+---
+
+- [ ]  FPC - 8:00 até 8:50
+- [ ]  Empreendedorismo - 9:10 até 10:00
+- [ ]  Projeto de vida - 13:00 até 13:50
+
+### Quarta
+
+---
+
+- [ ]  Português - 8:00 até 8:50
+- [ ]  Espanhol - 10:50 até 11:40
+- [ ]  Arte - 13:00 até 13:50
+- [ ]  Inglês - 13:50 até 14:40
+
+### Quinta
+
+---
+
+- [ ]  Matemática - 7:10 até 8:00
+- [ ]  Física - 8:00 até 8:50
+- [ ]  Biologia - 9:10 até 10:00
+- [ ]  Química - 15:00 até 15:50
+- [ ]  Matemática - 15:50 até 16:40
+
+### Sexta
+
+---
+
+- [ ]  Geografia - 7:10 até 8:00
+- [ ]  História - 8:00 até 8:50, 9:10 até 10:00
+- [ ]  Filosofia ou Sociologia - 10:00 até 10:50
 
 ### Tem alguma coisa errada ou desatualizada? Avise para mim!
 ### Nome: Leonardo Monteiro Moreira
