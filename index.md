@@ -22,7 +22,7 @@ Tarefa de história | ? | Tarefa | Responder documento do WhatsApp (A esperar **
 Tarefa de informática | 1 de março | Tarefa | Responder PDF do WhatsApp (Respostas com os cálculos) (Enviar pelo **E-mail**)
 Tarefa de arte | 3 de março | Tarefa | Responder questões da página 67 (A questão 1 é para responder no caderno) (Enviar pelo **E-mail**)
 Tarefa de inglês | 3 de março | Tarefa | Responder PDF do grupo de inglês (Perguntas e respostas) (Enviar pelo **E-mail**)
-Tarefa de espanhol | 3 de março | Tarefa | Responder PDF do grupo de empreendedorismo (Enviar pelo **E-mail**) 
+Tarefa de espanhol | 3 de março | Tarefa | Responder PDF do grupo de empreendedorismo
 Tarefa de química | ? | Tarefa | Responder formulário
 Tarefa de matemática | 4 de março | Tarefa | Resolver questões ímpares do Mab 2 (Enviar pelo **E-mail**)
 Tarefa de filosofia | 5 de março | Tarefa | Fazer redação (Imagem no WhatsApp) (Enviar pelo **E-mail**)
