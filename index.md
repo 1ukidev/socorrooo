@@ -8,14 +8,23 @@
 ## E-mail dos professores:
 
 - Português, FPC - Rossana - proferossanaesp@gmail.com
+
 - Matemática - Fernando - professorfernandolima7@gmail.com
+
 - Espanhol, Empreendedorismo - Sandra - sansansousa@gmail.com
+
 - Geografia - Mario - mariosalinger@gmail.com
+
 - Informática - Clemilton - clemilton.prof.jms@gmail.com
+
 - Arte - Juscelio - juscelioholanda@hotmail.com
+
 - Inglês - Giselly - giselly.andrade@prof.ce.gov.br
+
 - Filosofia - Gadelha - pjgadelha@hotmail.com
+
 - Biologia - Alcides - bio1infpp@gmail.com
+
 - E-mail de matemática da turma: ppmatematica1ano@gmail.com Senha: 15726488
 
 ## Horários:
