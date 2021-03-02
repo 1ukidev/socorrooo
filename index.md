@@ -88,6 +88,8 @@ Tarefa de avaliação | ? | Tarefa | Fazer tarefa avaliativa do Seduc
 - História - 8:00 até 8:50, 9:10 até 10:00
 - Filosofia ou Sociologia - 10:00 até 10:50
 
+---
+
 ### Tem alguma coisa errada ou desatualizada? Avise para mim!
 ### Nome: Leonardo Monteiro Moreira
 ### Turma: 1º Ano - Informática
