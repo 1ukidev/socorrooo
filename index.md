@@ -1,7 +1,7 @@
-## Última atualização: 02/03 às 9:50
+## Última atualização: 02/03 às 10:00 </br>
 ## Próxima atualização: 14:00
 
-# 📖 Tarefas
+# 📖 Tarefas:
 
 Nome | Limite para concluir | Tipo | Detalhes
 :--------- | :------: | -------: | -------:
@@ -46,7 +46,7 @@ Trabalho de empreendedorismo | 9 de março | Trabalho | Fazer atividade do grupo
 
 - E-mail de matemática da turma: ppmatematica1ano@gmail.com Senha: 15726488
 
-## Horários:
+## 🔖 Horários:
 <img src="Docs/Agenda.png"/>
 
 ### Tem alguma coisa errada ou desatualizada? Avise para mim!
