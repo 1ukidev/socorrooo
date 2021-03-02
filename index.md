@@ -5,7 +5,7 @@
 # 📖 Tarefas:
 
 Nome | Limite para concluir | Tipo | Detalhes
-:--------- | :------: | -------: | -------:
+:--------- | :------ | :------- | :-------:
 Tarefa de biologia | 4 de março | Tarefa | Responder atividade 1 do PDF do grupo de biologia (Enviar pelo **E-mail**) (Mais informações no grupo de biologia)
 Tarefa de física | ? | Tarefa | Responder PDF do WhatsApp no caderno (**A esperar forma de envio**)
 Trabalho de empreendedorismo | 23 de fevereiro | Trabalho | Comentar tópico do texto "A história de Artur" (Em grupo) (Enviar pelo **E-mail**)
