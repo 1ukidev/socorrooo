@@ -1,4 +1,5 @@
 ## Última atualização: 02/03 às 16:15
+
 #### Para acelerar as atualizações, decidi integrar a tabela no próprio site.
 #### Não está conseguindo ver a tabela inteira? Apenas arraste para o lado.
 #### Dica: Se você estiver no celular usando o chrome, clique no botão com 3 pontos e marque a opção "Para computador", dessa forma você tera um espaço mais amplo.
@@ -28,6 +29,8 @@ Tarefa de avaliação | ? | Tarefa | Fazer tarefa avaliativa do Seduc
 
 #### ATENÇÃO: Eu recomendo que você verifique o WhatsApp antes de fazer certas tarefas, não use apenas o que está escrito na lista!
 
+---
+
 # 📌 E-mail dos professores:
 
 - Português, FPC - Rossana - proferossanaesp@gmail.com
@@ -49,6 +52,8 @@ Tarefa de avaliação | ? | Tarefa | Fazer tarefa avaliativa do Seduc
 - Biologia - Alcides - bio1infpp@gmail.com
 
 - E-mail de matemática da turma: ppmatematica1ano@gmail.com Senha: 15726488
+
+---
 
 # 🔖 Agenda:
 
