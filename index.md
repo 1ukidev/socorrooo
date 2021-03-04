@@ -1,4 +1,4 @@
-## Última atualização: 04/03 às 8:50
+## Última atualização: 04/03 às 16:15
 
 ---
 
@@ -32,6 +32,7 @@ Trabalho de empreendedorismo | 9 de março | Trabalho | Fazer atividade do grupo
 Tarefa de avaliação | ? | Tarefa | Fazer tarefa avaliativa do Seduc
 Tarefa de português | 10 de março | Tarefa | Responder questão 1 e 2 dá página 18 e 19 (Enviar pelo **E-mail**)
 Tarefa de espanhol | 10 de março | Tarefa | Responder formulário do grupo de empreendedorismo
+Tarefa de matemática | 11 de março | Tarefa | Responder página 11, 12, 14 (2, 3, 6, 8, 9, 12) e página 19 (19, 22, 23) (Enviar pelo **E-mail**)
 
 #### ATENÇÃO: Eu recomendo que você verifique o WhatsApp antes de fazer certas tarefas, não use apenas o que está escrito na lista!
 
